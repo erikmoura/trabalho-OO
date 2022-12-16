@@ -1,5 +1,4 @@
-import java.io.Serializable;
-public class Contato implements Serializable{
+public class Contato{
     String nome;
     PLANO plano;
     String telefone;
